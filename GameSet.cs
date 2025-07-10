@@ -7,7 +7,9 @@ namespace PinCode;
 
 class GameSet
 {
+    static string word = "U are gay";
     public static void Game(string playername)
+
     {
         int health = Registr.UserHealth[playername];
         double score = Registr.score[playername];
@@ -65,33 +67,34 @@ class GameSet
 
                         }
                     }
-                         if (!great)
-                        {
-                            Console.WriteLine("Ти нічого не вгадав...❌");
-                            health -= 8;
-                            Console.WriteLine($"❤️Твоє здоров'я: {health}");
-                            Console.WriteLine($"🏆Твій рахунок: {score}");
-                            
-                        }
-                    if(health <= 0)
-            {
-                Console.WriteLine($"Ви програли. Код був: {randomString}");
-               
-                Registr.score[playername] = score;
-                    Registr.UserHealth[playername] = (short)health;
-                     Registr.SaveAllUsers();
-                running = false;
-            }
+                    if (!great)
+                    {
+                        Console.WriteLine("Ти нічого не вгадав...❌");
+                        health -= 8;
+                        Console.WriteLine($"❤️Твоє здоров'я: {health}");
+                        Console.WriteLine($"🏆Твій рахунок: {score}");
+
+                    }
+                    if (health <= 0)
+                    {
+                        Console.WriteLine($"Ви програли. Код був: {randomString}");
+
+
+                        Registr.score[playername] = score;
+                        Registr.UserHealth[playername] = (short)health;
+                        Registr.SaveAllUsers();
+                        running = false;
+                    }// ja pidar
 
                 }
 
 
             }
-            
-           
-            }
+
 
         }
+
+    }
     }
 
     
