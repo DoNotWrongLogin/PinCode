@@ -1,0 +1,14 @@
+C:\Users\ROMIK\Desktop\С#\PinCode. The Game\bin\Debug\net8.0\PinCode. The Game.exe
+C:\Users\ROMIK\Desktop\С#\PinCode. The Game\bin\Debug\net8.0\PinCode. The Game.deps.json
+C:\Users\ROMIK\Desktop\С#\PinCode. The Game\bin\Debug\net8.0\PinCode. The Game.runtimeconfig.json
+C:\Users\ROMIK\Desktop\С#\PinCode. The Game\bin\Debug\net8.0\PinCode. The Game.dll
+C:\Users\ROMIK\Desktop\С#\PinCode. The Game\bin\Debug\net8.0\PinCode. The Game.pdb
+C:\Users\ROMIK\Desktop\С#\PinCode. The Game\obj\Debug\net8.0\PinCode. The Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROMIK\Desktop\С#\PinCode. The Game\obj\Debug\net8.0\PinCode. The Game.AssemblyInfoInputs.cache
+C:\Users\ROMIK\Desktop\С#\PinCode. The Game\obj\Debug\net8.0\PinCode. The Game.AssemblyInfo.cs
+C:\Users\ROMIK\Desktop\С#\PinCode. The Game\obj\Debug\net8.0\PinCode. The Game.csproj.CoreCompileInputs.cache
+C:\Users\ROMIK\Desktop\С#\PinCode. The Game\obj\Debug\net8.0\PinCode. The Game.dll
+C:\Users\ROMIK\Desktop\С#\PinCode. The Game\obj\Debug\net8.0\refint\PinCode. The Game.dll
+C:\Users\ROMIK\Desktop\С#\PinCode. The Game\obj\Debug\net8.0\PinCode. The Game.pdb
+C:\Users\ROMIK\Desktop\С#\PinCode. The Game\obj\Debug\net8.0\PinCode. The Game.genruntimeconfig.cache
+C:\Users\ROMIK\Desktop\С#\PinCode. The Game\obj\Debug\net8.0\ref\PinCode. The Game.dll
